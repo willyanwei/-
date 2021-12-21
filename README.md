@@ -13,7 +13,7 @@ https://github.com/2dust/v2rayN
 ## 配置信息  from施  
 
     {
-    "address": "141.164.57.11",
+    "address": "xx.xx.xx.11",
     "users": [
       {
     "id": "d74f07f6-4b03-4226-a65d-cc3f2aa1cdb4",
